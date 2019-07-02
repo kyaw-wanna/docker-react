@@ -6,4 +6,4 @@ before_install:
 - docker build -f dockerfile.dev -t kwn2019/docker-react .
 
 script:
- - docker run kwn2019/docker-react npm run test -- --coverage
+ - docker run kwn2019/docker-react npm run test --watch=false --coverage
