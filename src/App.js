@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit a <code>src/App.js</code> and save to reload, this is testing.
-          CHANGE ON THE FEATURE BRANCH
+          CHANGE ON THE FEATURE BRANCH, ANOTHER one
         </p>
         <a
           className="App-link"
